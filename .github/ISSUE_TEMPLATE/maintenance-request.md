@@ -1,7 +1,7 @@
 ---
 name: Maintenance Request
 about: Request maintenance for deprecated library.
-title: 'Maintenance Request:'
+title: 'Maintenance Request: '
 labels: ''
 assignees: ''
 
